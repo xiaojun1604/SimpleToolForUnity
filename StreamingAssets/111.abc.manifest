@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2682540805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a12b1aedb3127817ae208c28d5d5a03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8dfb628b7e1fa856e8fd00cc4614476f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Cube.prefab
+Dependencies: []
